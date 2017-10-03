@@ -1,0 +1,7 @@
+[user]
+	name = Jens Jaeger
+	email = jaegerj204@googlemail.com
+[push]
+	default = simple
+[alias]
+	lg = log --decorate --graph --oneline

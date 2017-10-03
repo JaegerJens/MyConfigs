@@ -1,0 +1,12 @@
+set nocompatible
+source $VIMRUNTIME/vimrc_example.vim
+source $VIMRUNTIME/mswin.vim
+behave mswin
+set nobackup
+set nowritebackup
+set ruler
+set number
+set enc=UTF-8
+set smartindent
+syntax on
+colorscheme darkblue
